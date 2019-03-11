@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mcpengelly.github.io/landing-page",
-  "name": "landing-page",
+  "homepage": "http://mcpengelly.github.io/personal-landing",
+  "name": "personal-landing",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
